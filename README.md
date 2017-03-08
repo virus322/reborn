@@ -1,8 +1,3 @@
-برای یادگیری و آموزش ساخت ربات ضد اسپم تلگرام  به سایت پرمگ مراجعه کنید 
-http://permag.ir
-
-کانال ما
-@permag_ir
-
-کانال ربات های ما 
-@permag_bots
+https://github.com/boydevreza/reborn.git
+اموزش نصب
+@botreborn_ch
